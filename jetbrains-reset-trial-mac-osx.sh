@@ -1,7 +1,7 @@
 #!/bin/bash
 #https://github.com/bormaxi8080/SystemScripts/jetbrains-reset-trial-mac-osx.sh
 
-for product in IntelliJIdea WebStorm DataGrip PhpStorm CLion PyCharm GoLand RubyMine Rider; do
+for product in IntelliJIdea WebStorm DataGrip PhpStorm CLion PyCharm GoLand RubyMine Rider DataSpell AppCode; do
   echo "closing $product"
   ps aux | grep -i MacOs/$product | cut -d " " -f 5 | xargs kill -9
 
