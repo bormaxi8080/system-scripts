@@ -31,4 +31,4 @@ echo "restarting cfprefsd"
 killall cfprefsd
 
 echo
-echo "That's it, enjoy!"
+echo "JetBrain products eveluations resetting, DONE"
