@@ -3,6 +3,7 @@
 ##
 # This is script with usefull tips taken from:
 #   https://github.com/mathiasbynens/dotfiles/blob/master/.osx
+# Some hacks may be critical for your system!
 #
 
 echo "Avoids creation of .DS_Store and AppleDouble files."
