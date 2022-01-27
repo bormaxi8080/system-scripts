@@ -9,6 +9,10 @@ Resets all installed on MacOS X JetBrains product licenses to trial period
 
 **hacks-mac-osx.sh**
 
+**ostype.sh**
+
+Determines OS type of your system
+
 Some hacks for MacOS X System
 
 **parser.ua-npm-leak.png**
