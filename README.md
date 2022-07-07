@@ -7,7 +7,16 @@ Some scripts that helps to decide problems with some software on Mac &amp; Linux
 
 Some hacks for MacOS X System
 
-**parser.ua-npm-leak.png**
+**os-type.sh**
 
-An example of embedding malicious code
+Determine and print information about OS type of your machine
+
+**postgresql-info.sh**
+
+Prints information about your PostgreSQL local instance
+
+**net-configuration.sh**
+
+Prints information about your net configuration
+
 
