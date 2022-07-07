@@ -1,5 +1,7 @@
 # system-scripts
-Some scripts that helps to decide problems with some software on Mac &amp; Linux
+Some scripts that help to decide problems with some software on Mac &amp; Linux
+
+Run sudo bash <script_name> for output data.
 
 ## Table of contents:
 
