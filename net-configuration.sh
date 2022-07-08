@@ -18,3 +18,15 @@ echo "";
 echo ">>> ifconfig inet data:";
 echo "";
 ifconfig |grep inet;
+echo "";
+
+echo ">>> netstat:";
+echo "";
+netstat;
+echo "";
+
+echo ">>> lsof:";
+echo "";
+lsof -PiTCP -sTCP:LISTEN;
+echo "";
+lsof -i;
